@@ -2,3 +2,18 @@
   margin-top: 27px;
   margin-bottom: 5px;
 }
+
+.bigpic {
+  width: 1150px;
+  height: 350px;
+}
+
+.articlepic {
+  position: relative;
+  float: left;
+  width:  350px;
+  height: 250px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;  
+}
