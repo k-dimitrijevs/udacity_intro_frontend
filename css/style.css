@@ -1,32 +1,25 @@
 body {
     font-family: 'Lato', sans-serif;
-    color: #747704;
+    color: #2d3c49;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
 }
 
 hr {
-  width: 1140px;
-  border-top: 4px solid #BCBBBB;
+  border-top: 4px solid #7d97ad;
   margin-top: 15px;
-} 
+}
 
 .logo {
   margin-top: 22px;
   margin-bottom: 0px;
 }
 
-.bigpic {
-  width: 1150px;
-  height: 350px;
-}
-
 .articlepic {
-  position: relative;
-  float: left;
-  width:  360px;
-  height: 256px;
   background-position: 50% 50%;
   background-repeat:   no-repeat;
-  background-size:     cover;  
+  background-size:     cover;
   margin-bottom: 10px;
 }
 
@@ -35,17 +28,12 @@ hr {
   margin-bottom: 7px;
 }
 
-.title-secondary {
+.title-2nd {
   margin-top: 12px;
 }
 
 .text-thin {
-  font-weight: 100;
-}
-
-.text-grey {
-  color: #BCBBBB;
-  font-size: 40px;
+  font-weight: lighter;
 }
 
 .articlename {
@@ -54,8 +42,15 @@ hr {
   margin-bottom: 5px;
 }
 
-.sitec {
-  color: #747704
+.sites {
+  color: #02b3e4;
+}
+
+.other-photos {
+  font-family: 'Righteous', cursive;
+  font-size: 44px;
+  font-weight: 200;
+  color: #7d97ad;
 }
 
 .text-two {
@@ -64,6 +59,12 @@ hr {
 
 .text-place {
   margin-left: 10px;
-  margin-top: 40px;
-  margin-bottom: 12px;
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+footer
+{
+  margin-top: 30px;
+  color: #02b3e4;
 }
